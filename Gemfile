@@ -12,6 +12,7 @@ gem 'rails-controller-testing'
 
 group :development, :test do
   gem 'pry'
+  gem 'listen'
 end
 
 group :development do
